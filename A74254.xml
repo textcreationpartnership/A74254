@@ -1,0 +1,160 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The age of vvonders, or Miracles are not ceased. Being a true but strange relation of a child born at Burslem in Stafford-shire, who, before it was three quarters old, spake and prophesied strange and wonderful things touching the king ... affirmed in a letter by Mr. Colclough, Justice of the Peace, to Colonel Pury; and attended upon oath by Elizabeth Locket and her husband, the childs nurse.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A74254</idno>
+            <idno type="STC">Thomason E1017_37</idno>
+            <idno type="EEBO-CITATION">50922803</idno>
+            <idno type="OCLC">ocm 50922803</idno>
+            <idno type="VID">168831</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A74254)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168831)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 151:E1017[37])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The age of vvonders, or Miracles are not ceased. Being a true but strange relation of a child born at Burslem in Stafford-shire, who, before it was three quarters old, spake and prophesied strange and wonderful things touching the king ... affirmed in a letter by Mr. Colclough, Justice of the Peace, to Colonel Pury; and attended upon oath by Elizabeth Locket and her husband, the childs nurse.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Nehemiah Chamberlain ...,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "March 23 1659." Imprint date is crossed out.</note>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Prophecies --  Religious aspects --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Charles II, 1660-1685 --  Prophecies.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:168831:1" rendition="simple:additions"/>
+            <p>The Age of VVonders OR MIRACLES are not CEASED.</p>
+            <p>BEING A true but ſtrange Relation of a Child born at <hi>Burſlem</hi> in <hi>Stafford</hi>-Shire, who, before it was three quarters old, ſpake and propheſied ſtrange and wonderful things touching the King, three nights together, contained in this enſuing Relation, as it was affirmed in a Letter by Mr. <hi>Colclough,</hi> Juſtice of the Peace, to Colonel <hi>Pury;</hi> and atteſted upon Oath by <hi>Elizabeth Locket</hi> and her Huſband, the Childs Nurſe.</p>
+            <p>With divers other remarkable Predictions, Signes and Wonders, in relation to Monarchy, and the Child born with three Crowns.</p>
+            <q>
+               <bibl>PSAL. 8.2.</bibl>
+               <p>Out of the mouth of Babes and Sucklings haſt thou Or<g ref="char:EOLhyphen"/>dained ſtrength becauſe of thine enemies.</p>
+            </q>
+            <p>
+               <add>March. 23. 1659</add> 
+               <hi>London,</hi> Printed for <hi>Nehemiah Chamberlain,</hi> and are to be ſold at the Eaſt end of St. <hi>Pauls,</hi> 1660.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:168831:2"/>
+            <pb n="3" facs="tcp:168831:2"/>
+            <head>The Age of Wonders.</head>
+            <p>IT is an ungratious quality of our <hi>Engliſh</hi> Iſlanders, ra<g ref="char:EOLhyphen"/>ther then not to be babling, to belie, deprave and ſcan<g ref="char:EOLhyphen"/>dalize one another, whereas the condoling our own mi<g ref="char:EOLhyphen"/>ſeries and glorifying God for the wonders which hee daily revealeth, and the deliverances which we continually finde, are ſubjects more becoming our Meditations.</p>
+            <p>God will never ſhorten the evidence of his own Eſſence and omnipotence, were it onely to the confutation and con<g ref="char:EOLhyphen"/>demnation of Athieſts, the holy Ghoſt is not confined to the rules of Nature, but doth declare his wonderful and ſecret de<g ref="char:EOLhyphen"/>terminations oft-times by ſupernatural means, and not ſel<g ref="char:EOLhyphen"/>dom by croſſing the courſe of Nature.</p>
+            <p>Not to ravel out the Scriptures which are full of ſuch preſi<g ref="char:EOLhyphen"/>dents, we need go no higher then the preſent times wherein we live, which may not unjuſtly be called <hi>The Age of Wonders;</hi> Where are our Hiſtories Sacred and prophane which can pro<g ref="char:EOLhyphen"/>duce the paralel to the late years wherein we have lived for ad<g ref="char:EOLhyphen"/>mirations.</p>
+            <p>Not to mix ink with the Sacred Royal blood, ſo unnatural<g ref="char:EOLhyphen"/>ly, Sacriligiouſly and inhumanely drawn, which yet ſeems to ſleep (a Wonder in compariſon of <hi>Gods Revenge for Murther,</hi> which hath never been known to fail, even to the moſt incon<g ref="char:EOLhyphen"/>ſiderable inſtance) we ſhall do well to take ſome Doctrines from Infants as well as from irrational and ſometimes from inanimate Creatures, all of them naturally incapable by ſpeech to utter any thing to our underſtanding, and firſt for Infants; To omit thoſe ſerene and innocent Martyrs of <hi>Pharaoh</hi> and <hi>Herod,</hi> who (notwithſtanding their incapacity of ſpeech) confeſſed and ſhewed forth the praiſe and glory of God, not in ſpeaking but in dying, let us go no higher then a dozen years, within which time we ſhall make evident, that three cra<g ref="char:EOLhyphen"/>dle Infants have made audible &amp; wonderful revelations in or<g ref="char:EOLhyphen"/>der to the reſtoring of Monarchy into this wretched Kingdom.
+<pb n="4" facs="tcp:168831:3"/>One, a Boy, about the coming in of the preſent <hi>King Charles</hi> born a <hi>Sudbury,</hi> at eleven weeks old, was plainly heard as well by his Parents as others, to ſpeak, before his Majeſties march to <hi>Worceſter,</hi> and ſay <hi>A King,</hi> which he often repeated, a truth generally known to the inhabitants of thoſe parts.</p>
+            <p>A ſecond, is another Boy, as yet under two years old and living, was born with Teeth in his mouth, with two tongues in his mouth, and three Crowns upon his head where others have but one, he walked in his Mothers hand at ſix moneths old, and from his birth ſpoke, and ever in his ſpeech named <hi>A King,</hi> which to this day he not only continues with other ex<g ref="char:EOLhyphen"/>preſſions, but if any one in his preſence do but name the word <hi>King,</hi> the boy ſeems to be over-joyed; how he behaved him<g ref="char:EOLhyphen"/>ſelf ſometime ſince in the Commons Houſe of Parliament, where, in his deportment and expreſſions, he fore-told their declining, is better to be taken from their own Officers.</p>
+            <p>A third, which is a Female Child, we have certified from <hi>Burſlem</hi> in <hi>Stafford</hi>-Shire, which Child is nurſed by <hi>Eliza<g ref="char:EOLhyphen"/>beth Locket</hi> the Wife of <hi>John Locket</hi> in the ſaid Pariſh of <hi>Bur<g ref="char:EOLhyphen"/>ſlem,</hi> who are people of very honeſt converſation; The ſaid nurſe about a Moneth or five weeks ſince undreſſing the Child at eight of the Clock in the evening, the ſaid Girl Infant (be<g ref="char:EOLhyphen"/>ing much under three quarters of a year old) was heard plain<g ref="char:EOLhyphen"/>ly to ſay <hi>A King,</hi> which ſhe repeated ſeven times after each other, and did the ſame three nights together, about the ſame hour in the evening, which child never ſpake before, nor ſince. This Relation was ſent in a Letter to Colonel <hi>Pury,</hi> and is offered to be depoſed upon oath by <hi>John Colclough</hi> Eſquire, one of the Juſtices of Peace in the ſaid County of <hi>Stafford,</hi> and this the ſaid <hi>John and Elizabeth Locket</hi> dwelling in <hi>Burſlem</hi> a<g ref="char:EOLhyphen"/>foreſaid.</p>
+            <p>In this <hi>Miraculous Predection</hi> of an <hi>Infant,</hi> more things are obſervable then may be ſlightly paſſed over; Firſt for an <hi>Infant</hi> to ſpeak is ſo wonderful, as we have not ſeen the like <hi>Recorded,</hi> no not of the <hi>Son</hi> of <hi>God himſelf,</hi> who did fully accompliſh all manner of his <hi>Relations</hi> to <hi>Humanity,</hi> ſin onely excepted, be<g ref="char:EOLhyphen"/>fore he is mentioned to <hi>ſpeak,</hi> but in theſe <hi>Infants</hi> the growth of <hi>Teeth,</hi> and ſtrength to other <hi>Organs</hi> of <hi>ſpeech</hi> ſeemed to be <hi>perfected,</hi> onely for <hi>declaring</hi> a <hi>Miracle;</hi> The two firſt <hi>Children</hi>
+               <pb n="5" facs="tcp:168831:3"/>were <hi>born</hi> with <hi>Teeth,</hi> of which the <hi>laſt</hi> had onely <hi>three</hi> a long while, the number of the <hi>firſt,</hi> or the <hi>relation</hi> of any <hi>born</hi> with the <hi>last,</hi> is not yet brought to our knowledge, therefore we will <hi>obſerve</hi> ſomething upon the <hi>Number Three.</hi>
+            </p>
+            <p>
+               <hi>Number</hi> is an <hi>Art,</hi> it is no Natural <hi>gift,</hi> for the <hi>Indians</hi> who want the uſe of <hi>Letters,</hi> have not the <hi>gift</hi> of <hi>Numbering,</hi> fur<g ref="char:EOLhyphen"/>ther then by their <hi>fingers</hi> they can <hi>prompt</hi> their <hi>memory,</hi> and even at that help, few of them can arrive at the <hi>number</hi> of a <hi>hundred,</hi> and by our own <hi>Children</hi> we find, that though we bring them early to the comprehenſion of <hi>Letters,</hi> yet they can retain no great number, till age have ſtrengthened their <hi>memories.</hi>
+            </p>
+            <p>The <hi>Heathen Philoſopher</hi> ſaith, <hi>That the firſt part of Wiſdom, is well to Number,</hi> and the <hi>Divine Royal Prophet,</hi> makes it a chief of his Prayers to Number his dayes, that he may apply his heart unto Wiſdom; Whereby it is evident that a princi<g ref="char:EOLhyphen"/>pal part of Wiſdom reſts upon the Art of Arithmatick; in ſhort it is the ſtrongeſt link in the Chain of Aſſotiation, nor Govern<g ref="char:EOLhyphen"/>ment, nor Laws, nor Trade can ſubſiſt or continue without numeration.</p>
+            <p>At this time we ſhall have occaſion to touch and onely to touch three of the ſaid numbers, that is to ſay, one, Three and Seven; by that number, or rather beginning of numbers <hi>one,</hi> we are lead to the ſerious conſideration of the Word <hi>KING,</hi> which was the ſubject, and the whole Subject of all the three <hi>Childrens</hi> miraculous ſpeech, like the one Prophet amongſt the Lyons, or like the three children in the fiery Furnace, whoſe diſcourſe was of one God in Three Perſons, as this is of <hi>KING</hi> Monarchal by three Children.</p>
+            <p>One is a number uncompoſed, and not numerable becauſe it cannot be divided, nevertheleſſe it createth and produceth innumerable accounts, and being again repeated, it maketh two, and ſo runs <hi>ad infinitum,</hi> and indeed one and two are the Number of God who is Infinite, one relating to the God-head which is indiviſible, and one and two, making three (which is Infinite) to the perſonal Deſcription of the Sacred Trinity; God therefore willing to make a wonderful Revelation of his Eſſential and Perſonal preſence with Kings, who are his Cho<g ref="char:EOLhyphen"/>ſen and Annointed Servants, hath given Supernatural Power
+<pb n="6" facs="tcp:168831:4"/>to Babes and Sucklings, to reveal this Miſtery to them who are Babes in Grace, that they may become Babes of Grace by their obedience to his Ordination, for though the Powers that are indifinitely the ordained Powers of God, yet ſome are of wrath, as thoſe ſeem to be which are compoſed, and others of Mercy which beſt ſuits with Monarchy, judgement being within the Office of Magiſtrates, but Mercy onely within the the Power of Kings.</p>
+            <p>It is therefore an evidence of Gods great Mercy intimated to theſe diſtracted Nations, in conveying to the people by theſe innocent Mouths the Name of King, who is the Image and Earthly Angel of God, by whom he hath given more delive<g ref="char:EOLhyphen"/>rance to his Church in all Ages, then by any multiplyed Ma<g ref="char:EOLhyphen"/>giſtrates; his <hi>Iſrael</hi> was never ſo much under ſlavery, as when they had no <hi>King,</hi> for becauſe every man did what was good in his own eyes, no man did what was right or acceptable in Gods eyes, which are ſingle, pure, and can behold do compo<g ref="char:EOLhyphen"/>ſitions which are not of his own Creation.</p>
+            <p>The next number we are to conſider is Three, which we ap<g ref="char:EOLhyphen"/>ply as well to the Infants ſpeaking, as to the repetition of the Word <hi>KING;</hi> The number it ſelf is a moſt Sacred <hi>Number,</hi> denoting the Holy, Bleſſed and Sacred Triniry in Unity, which God delineated to man-kind by <hi>Kings,</hi> who in their Government have no leſſe then a Divine Trinity, themſelves are the Fountain of Mercy, their Divine Counſellors are the <hi>Sanctum Sanctorum</hi> of Wiſdome, and their politick Magiſtra<g ref="char:EOLhyphen"/>cy are the Conduits by whom Juſtice flows to their people.</p>
+            <p>In this number of <hi>Three,</hi> all things are confirmed, there are <hi>Three</hi> which bear witneſſe in Heaven to the Eternal God-head, and there are <hi>Three</hi> which in earth do witneſſe the Truth of this; There are <hi>Three</hi> Dominions under a <hi>King Monarchal</hi> in his God-like Power over his people, <hi>Ariſtocratical</hi> in his con<g ref="char:EOLhyphen"/>ſtant Counſel of <hi>Nobles,</hi> and <hi>Democratical</hi> in his Legal Conti<g ref="char:EOLhyphen"/>ſtutions by Parliaments, and in the mouth of theſe <hi>Three</hi> wit<g ref="char:EOLhyphen"/>neſs all Peace, Vnity and Amity is compoſed between a <hi>King</hi> and his people,; Theſe are like three Angels which appeared to <hi>Abraham,</hi> which foretold the bleſſed Events which ſhould come to paſs, which we have heard with our ears from Anti<g ref="char:EOLhyphen"/>quity, and do ſee with our eyes performed in their Unity, and
+<pb n="7" facs="tcp:168831:4"/>muſt therefore (unleſs we be <hi>Atheniſts</hi> and <hi>Infidels</hi>) believe, with our hearts ſhall be confirmed to all Eternity; Therefore this ſtill and ſecret Revelation by three Babes, is a great and indubitable confirmation to us, that God is in their peaceable infallible Voice.</p>
+            <p>Our little Female Propheteſs is not without her Myſtical Excellencies and Numbers, the Holy Scripture hath recorded to the end of time the propheſies of divers Women, ſome in the Birth of their Children have given them names fore<g ref="char:EOLhyphen"/>telling their diſpoſitions; Holy <hi>Huldah</hi> in the old Teſtament, &amp; St. <hi>Anna</hi> in the new, were Propheteſſes moſt famous though of great age and experience, but that an Infant of about ſeven moneths old ſhould articularly and audibly become the pro<g ref="char:EOLhyphen"/>phetical bringer of ſuch happy Tydings to a diſtracted people, that the God of mercies after ſuch Gyantick provocations as theſe ſinful Nations have produced, ſhould renew his mercies and again become their <hi>King,</hi> and in earneſt of this unmeaſu<g ref="char:EOLhyphen"/>rable Bleſſing give them his Deputy anointed by his own ap<g ref="char:EOLhyphen"/>pointment, and in all Sacred accompliſhments made the Image of his own Son, and declared all this out of the mouths of Babes and Sucklings in whom he hath ordained ſupernatural ſtrength, what is it but that he may ſtill and pacifie his and his Annointed, and his choſen peoples enemies.</p>
+            <p>And further in this his mighty, though ſmall Champion, he hath ſhewed his Viſible Power, by Teſtimony of his Sacred Number of Seven; For this Infant continued naming the Word <hi>KING</hi> ſeven times, and did ſo every night, for three nights and no more, both which numbers were exactly ob<g ref="char:EOLhyphen"/>ſerved by ſuch as heard the Infant deliver this wonderful Truth.</p>
+            <p>This number of Seven is accounted the moſt excellent of numbers, and hath been the Conduit to convegh divers of Gods great bleſſings to us; the firſt Conſecration of it, was to his own reſt, after the Creation in the next place he uſed it to number our dayes into weeks; Again he made it the Meſſen<g ref="char:EOLhyphen"/>ger of <hi>Jubile</hi> and Deliverance to his People from their hard-hearted Oppreſſors and Purſuers, he made it the Meaſure of his Gracious Plenty and Proviſion in <hi>Aegypt,</hi> which he had prepared to be a Store-houſe, Tryal and Advancing of his
+<pb n="8" facs="tcp:168831:5"/>Choſen <hi>Iſrael;</hi> and Finally he made it the Accompliſher of that diſtance between his Mighty Reſurrection and Glorious Aſcenſion.</p>
+            <p>Theſe and many other great Myſteries hath he moſt Gra<g ref="char:EOLhyphen"/>ciouſly couſhed under this his Sacred Gift of Numeration, which when they are become ſuch Miraculous Convey<g ref="char:EOLhyphen"/>ances of his Sacred and Secret Mercies to Man-kind, who is he that ſhall dare to reſiſt them when his power and Juſtice and mercy ſo evidently appear in them, and not be found to fight againſt God himſelf.</p>
+            <p>Let our Brethren therefore take <hi>Gamaliels</hi> counſel, and ſeeing they have deſparately tryed and ſadly found that theſe late Rebel<g ref="char:EOLhyphen"/>lions against Gods holy institution of Monarchy, are not of him, they having been ſo far from prevailing, as not only their Inventions and Inventors are alike confounded and come to nought, but that the abuſed people alſo whom they made their unhappy and now most miſerable Inſtruments, are brought into calamities irrecoverable, as to themſelves and their own power; Let them we ſay return leaſt they be found fighters againſt God, who will aſſuredly go on in his puniſhments upon all them who do not honour and obey, and ſay,</p>
+            <closer>GOD SAVE THE KING.</closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
